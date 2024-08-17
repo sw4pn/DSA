@@ -1,2 +1,3 @@
-# DSA
-Data Strucutres and Algorithms
+## Data Structures and Algorithms
+
+Written in Javascript
